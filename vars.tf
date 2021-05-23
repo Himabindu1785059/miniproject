@@ -4,7 +4,7 @@ variable "ami" {
 }
 
 variable "instance_count" {
-  default = "1"
+  default = "2"
 }
 
 variable "instance_type" {
